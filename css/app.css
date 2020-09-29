@@ -398,8 +398,11 @@ fieldset {
 ol,
 ul {
   list-style: none;
-  margin: 0;
+  margin-top: 20px;
   padding: 0;
+  color:#fff;
+  text-align:center;
+
 }
 
 /**
@@ -451,6 +454,11 @@ html {
   border-width: 0; /* 2 */
   border-style: solid; /* 2 */
   border-color: currentColor; /* 2 */
+}
+
+.curriculum{
+  color: #fff; 
+  padding-bottom: 7px;
 }
 
 /*
